@@ -1,0 +1,23 @@
+{
+  "name": "pixcap",
+  "version": "1.0.0",
+  "description": "The `EmployeeOrgApp` is a class designed to handle operations in an organizational hierarchy of employees. This class supports operations such as moving an employee to a different supervisor and undoing or redoing such operations. It is particularly useful for managing and visualizing organizational structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeraja00/employee_organzation_chart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheeraja00/employee_organzation_chart/issues"
+  },
+  "homepage": "https://github.com/dheeraja00/employee_organzation_chart#readme",
+  "dependencies": {
+    "@types/node": "^20.2.5"
+  }
+}
